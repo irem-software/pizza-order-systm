@@ -11,7 +11,4 @@
 15: Soğan
 16: Mısır
 * Teşekkür ederiz!
-dosya=open("orders_database.csv","a",encoding="UTF8",newline="")
-dosya.write(isimsoyisim  +"  " + tc+"  "  + kredi +" "+kredi_sifre+  f" ödenen:{cost}")
-dosya.write(" alınan pizza:" +secim)
-dosya.close()
+
